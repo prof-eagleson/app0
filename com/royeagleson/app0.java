@@ -8,4 +8,4 @@ public class HelloAndroid extends Activity {
     TextView textView = new TextView(this);
     textView.setText("Hello, World!");
     setContentView(textView);
-  }}
+  } }
